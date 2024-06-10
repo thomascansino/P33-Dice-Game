@@ -1,1 +1,1 @@
-# P33-Dice-Game
+# Dice-Game-33rd Project
